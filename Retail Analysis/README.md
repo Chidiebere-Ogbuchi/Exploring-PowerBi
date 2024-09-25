@@ -5,4 +5,6 @@ This tutorial explores the Retail Analysis sample in the Power BI service. In th
 
 
 Here is the Dashboard!
+
+
 ![image](https://github.com/user-attachments/assets/fa258385-a506-4770-bae0-b3a9b1354c11)
